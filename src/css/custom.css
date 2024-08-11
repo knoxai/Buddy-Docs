@@ -6,6 +6,7 @@
 
 /* You can override the default Infima variables here. */
 :root {
+  background-color: #151521;
   --ifm-color-primary: #159994;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
@@ -19,6 +20,7 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
+  background-color: #151521;
   --ifm-color-primary: #159994;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
@@ -44,8 +46,4 @@
   --ifm-footer-title-color: var(--ifm-color-white);
 }
 
-.docsWrapper_node_modules-\@docusaurus-theme-classic-lib-theme-DocRoot-Layout-styles-module {
-  display: flex;
-  flex: 1 0 auto;
-  background: #151521;
-}
+
