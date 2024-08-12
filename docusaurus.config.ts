@@ -30,6 +30,7 @@ const config: Config = {
           blogSidebarCount: 'ALL',
           blogSidebarTitle: 'Latest',
           postsPerPage: 10,
+          onUntruncatedBlogPosts: 'ignore',
         },
         theme: {
           customCss: './src/css/custom.css',
