@@ -1,7 +1,5 @@
 ## Introduction: Revolutionizing AI-Driven DevOps
 
-<!-- [![IMAGE ALT TEXT HERE](./static/img/demo-cover.png)](https://www.youtube.com/watch?v=wO7Aj1fpTK4) -->
-<iframe allowtransparency="true" allowFullScreen frameBorder="0" scrolling="no" src="https://docs.buddy.red/img/EnGIF.mp4" width="810" height="600"></iframe>
 
 [**Buddy.red**](https://buddy.red) represents a significant advancement in the realm of DevOps, blending ease of use with cutting-edge AI capabilities. It’s designed to be a powerful yet user-friendly system that integrates AI at its core. Built on top of the robust [Buddy CI/CD](https://buddy.works) DevOps automation system, Buddy enhances the development and operational workflows by incorporating seamless integration with the latest AI technologies, specifically ChatGPT-4o. This platform is tailored for developers and operators who seek to leverage AI to streamline and enhance their software development processes, from coding to deployment.
 
