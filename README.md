@@ -1,9 +1,11 @@
 ## Introduction: Revolutionizing AI-Driven DevOps
 
+| ![](./static/img/ai-assistant.gif) |
+| - |
 
 [**Buddy.red**](https://buddy.red) represents a significant advancement in the realm of DevOps, blending ease of use with cutting-edge AI capabilities. It’s designed to be a powerful yet user-friendly system that integrates AI at its core. Built on top of the robust [Buddy CI/CD](https://buddy.works) DevOps automation system, Buddy enhances the development and operational workflows by incorporating seamless integration with the latest AI technologies, specifically ChatGPT-4o. This platform is tailored for developers and operators who seek to leverage AI to streamline and enhance their software development processes, from coding to deployment.
 
-| ![](https://docs.buddy.red/assets/images/ask-codebase-cf1e995562bd6b404beb83e92d0fed58.png) |
+| ![](./static/img/ask-codebase.png) |
 | - |
 
 #### Key Features
@@ -47,7 +49,7 @@ Buddy includes a built-in Source Code Management (SCM) system that integrates se
 
 ### 5. **Comprehensive Web IDE**
 
-| ![](https://docs.buddy.red/assets/images/light-ui-24e64a4ccce46b362dd6b466d285f02d.png) |
+| ![](./static/img/light-ui.png) |
 | - |
 
 One of the standout features of Buddy is its comprehensive web-based Integrated Development Environment (IDE). This web IDE is designed to be a fully functional development environment that supports a wide range of programming languages and frameworks. Key features include:
