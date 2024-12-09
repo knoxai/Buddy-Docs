@@ -40,6 +40,11 @@ const config: Config = {
   ],
 
   themeConfig: {
+    docs: {
+      sidebar: {
+        hideable: true,
+      }
+    },
     image: 'img/ui.png',
     navbar: {
       title: 'docs.buddy.red',
