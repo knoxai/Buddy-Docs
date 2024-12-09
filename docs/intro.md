@@ -9,35 +9,69 @@ sidebar_position: 1
 ### Key Features  
 
 #### **1. Smart Search**  
-Effortlessly explore your entire repository, including files, code, and documentation. Buddy’s intelligent search enables quick access to specific sections, functions, or keywords, saving you time and effort.  
+Effortlessly explore your entire repository, including files, code, and documentation. Buddy’s intelligent search enables quick access to specific sections, functions, or keywords, saving you time and effort. 
+
+| ![](../static/img/search.gif) |
+| -------------------------------------------- |
 
 #### **2. AI-Powered Code Autocompletion**  
-Boost your coding efficiency with AI-driven autocompletion. Buddy understands your context and offers intelligent code suggestions to accelerate your development process.  
+Boost your coding efficiency with AI-driven autocompletion. Buddy understands your context and offers intelligent code suggestions to accelerate your development process. 
 
-#### **3. Contextual Understanding**  
-Provide Buddy with additional context by adding:  
-- **Files**: Share specific files for better suggestions.  
-- **Codebases**: Enable deeper understanding of your project’s architecture.  
-- **Prompts and Documentation**: Supply relevant information for precise assistance.  
-- **Git Diff**: Utilize version control changes for enhanced insights.  
-- **Terminal Output**: Share terminal logs for quick debugging.  
-- **Issues and Folders**: Give Buddy a complete view of your project for targeted solutions.  
+| ![](../static/img/autoComplete.gif) |
+| ----------------------------- |
 
-#### **4. Right-Click Actions**  
-Simplify coding tasks using intuitive right-click options:  
-- **Optimize Code**: Improve code structure and efficiency.  
-- **Fix Code Issues**: Automatically resolve common bugs and errors.  
-- **Correct Syntax and Spelling**: Ensure your code is clean and professional.  
-- **Add to Context**: Include selected code snippets or files for a more comprehensive understanding.  
-- **Generate Docstrings**: Create detailed docstrings for better code documentation.  
-- **Write Comments**: Add meaningful comments to improve code readability.  
+#### **3. Add Selected Code to Chat**
 
-#### **5. Keyboard Shortcuts**  
-Speed up your workflow with predefined shortcuts. Instantly add selected code to the chat input box, either for direct input or as a mention for Buddy to review and improve.  
+Use the keyboard shortcut **Cmd/Ctrl + L** to swiftly transfer selected code from the editor to the chat box. This feature allows for seamless discussion of code snippets without disrupting your workflow.
+
+| ![](../static/img/addSelectedCodeToChat.gif) |
+| ----------------------------------- |
+
+#### **4. Edit Selected Code to Chat**
+Utilize the keyboard shortcut **Cmd/Ctrl + I** to not only add selected code from the editor to the chat box but also to edit the code. This functionality enables you to refine and modify snippets code directly.
+
+| ![](../static/img/editSelectedCodeInChat.gif) |
+| -------------------------------------------- |
+
+#### **4. Context Providers**
+
+Context Providers are plugins that let you access and incorporate specific information into your conversation. When you type '@', a dropdown will appear, displaying available content that can be used as context for the model. This allows you to easily reference and feed relevant information to the LLM during your interaction.
+
+- **Files**
+- **Codebase**
+- **Prompt Files**
+- **Code**
+- **Docs**
+- **Git Diff**
+- **Terminal**
+- **Problems**
+- **Folder**
+
+#### **5. Right-Click Actions**  
+
+Simplify coding tasks using intuitive right-click options: 
+
+- **Add to Context**
+- **Fix Code**
+- **Optimize Code**
+- **Write Comments**
+- **Write Docstring**
+
+#### **6. Select Files as Context**  
+
+"Select Files as Context" allows you to right-click on files and choose them as context for your tasks. This feature integrates the selected files' content into your workflow, providing relevant information directly to the LLM, enhancing functionality and efficiency.
+
+| ![](../static/img/selectFilesAsContext.png) |
+| ------------------------------------- |
+
+#### **7. Attach image for context**
+
+| ![](../static/img/imageAsContext.gif) |
+| ----------------------------- |
 
 ---
 
 ### Installation Instructions  
-To get started, download the appropriate `.vsix` extension for your operating system. Follow the standard process to install the extension in your VS Code-compatible editor, and you're ready to unlock the full potential of Buddy!  
+To get started, download the appropriate `.vsix` extension for your operating system. Follow the standard process to install the extension in your VS Code-compatible editor [Here >>>](https://open-vsx.org/extension/Buddy/buddy) or with the Chinese version one [Here >>>](https://marketplace.visualstudio.com/items?itemName=BuddyRed.buddyred), and you're ready to unlock the full potential of Buddy!  
 
 Buddy empowers developers to write clean, efficient, and maintainable code, while reducing time spent on repetitive tasks. Whether you’re debugging, documenting, or optimizing, Buddy is your reliable coding companion.
