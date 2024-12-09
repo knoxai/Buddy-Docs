@@ -78,6 +78,6 @@ Simplify coding tasks using intuitive right-click options:
 ---
 
 ### Installation Instructions  
-To get started, download the appropriate `.vsix` extension for your operating system. Follow the standard process to install the extension in your VS Code-compatible editor or with the Chinese version one [Here >>>](https://marketplace.visualstudio.com/items?itemName=BuddyRed.buddyred), and you're ready to unlock the full potential of Buddy!  
+To get started, download the appropriate `.vsix` extension for your operating system. Follow the standard process to install the extension in your VS Code-compatible editor [Here >>>](https://open-vsx.org/extension/Buddy/buddy) or with the Chinese version one [Here >>>](https://marketplace.visualstudio.com/items?itemName=BuddyRed.buddyred), and you're ready to unlock the full potential of Buddy!  
 
 Buddy empowers developers to write clean, efficient, and maintainable code, while reducing time spent on repetitive tasks. Whether you’re debugging, documenting, or optimizing, Buddy is your reliable coding companion.
