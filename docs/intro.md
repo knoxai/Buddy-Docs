@@ -33,7 +33,7 @@ Utilize the keyboard shortcut **Cmd/Ctrl + I** to not only add selected code fro
 | ![](../static/img/editSelectedCodeInChat.gif) |
 | -------------------------------------------- |
 
-#### **4. Context Providers**
+#### **5. Context Providers**
 
 Context Providers are plugins that let you access and incorporate specific information into your conversation. When you type '@', a dropdown will appear, displaying available content that can be used as context for the model. This allows you to easily reference and feed relevant information to the LLM during your interaction.
 
@@ -51,7 +51,7 @@ Context Providers are plugins that let you access and incorporate specific infor
 - **Problems**
 - **Folder**
 
-#### **5. Right-Click Actions**  
+#### **6. Right-Click Actions**  
 
 Simplify coding tasks using intuitive right-click options: 
 
@@ -65,14 +65,14 @@ Simplify coding tasks using intuitive right-click options:
 
 - **Write Docstring**
 
-#### **6. Select Files as Context**  
+#### **7. Select Files as Context**  
 
 "Select Files as Context" allows you to right-click on files and choose them as context for your tasks. This feature integrates the selected files' content into your workflow, providing relevant information directly to the LLM, enhancing functionality and efficiency.
 
 | ![](../static/img/addFilesAsContext.gif) |
 | ------------------------------------- |
 
-#### **7. Attach image for context**
+#### **8. Attach image for context**
 
 | ![](../static/img/imageAsContext.gif) |
 | ----------------------------- |
